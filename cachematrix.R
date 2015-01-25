@@ -1,15 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Cria uma matriz que guarda em cache o seu inverso
 
-## Write a short comment describing this function
+## Cria uma matriz e salva em cache
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Retorna o resultado da matriz salvo em cache
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+        ## Retorna o resultado da matriz que é o inverso de x
 }
